@@ -1,3 +1,3 @@
 # C867Project
 
-See 'C867 Perfomrance Assessment Requirements Rubric' 
+See `C867 Performance Assessment Requirements Rubric`
